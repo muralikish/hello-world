@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 jskhskfhaskfhas --- This is added file
 sdhfkdshfkhfkdshf
 sfkshksfhs
 
 hdhaskaskfsaf
 sdfjkdsjfkdsjf
+=======
+jskhskfhaskfhas
+>>>>>>> parent of ff87952... Added new lines
